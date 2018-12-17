@@ -15,4 +15,4 @@ if turn_count(board) % 2 = 0
 else turn_count(board) % 2 = 0
   puts "O"
  end
-end 
+end
