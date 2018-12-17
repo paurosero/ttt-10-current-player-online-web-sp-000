@@ -1,7 +1,7 @@
 def turn_count(board)
-board_array = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 counter = 0
-board_array.each do |board|
+board.each do |board|
 counter += 1
  end
 end
