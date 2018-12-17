@@ -1,5 +1,4 @@
 def turn_count(board)
-position = ["X", "O"]
 counter = 0
 board.each do |position|
 if board space is either an X or an O
